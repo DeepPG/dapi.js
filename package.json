@@ -1,0 +1,26 @@
+﻿{
+  "name": "dapi.js",
+  "version": "0.0.8-beta.2",
+  "description": "library for discord api",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "bot",
+    "client",
+    "node",
+    "discordapp",
+    "discord bots",
+    "disocrd api"
+  ],
+  "author": "alialkderani@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dapi.js": "0.0.2",
+    "ws": "^8.2.3"
+  }
+}
