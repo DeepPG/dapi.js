@@ -12,7 +12,7 @@ client.createMessage({
     channelID: 'channel id',
     token: token,
     embed: { // embed
-        description: 'description for test'
+        description: 'description for test',
         title: 'title'
     }
 }); // sne message: "something for test"
