@@ -1,6 +1,6 @@
-﻿{
+{
   "name": "dapi.js",
-  "version": "0.0.8-beta.2",
+  "version": "0.0.11",
   "description": "library for discord api",
   "main": "./src/app.js",
   "scripts": {
@@ -19,8 +19,6 @@
   "author": "alialkderani@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.24.0",
-    "dapi.js": "0.0.2",
-    "ws": "^8.2.3"
+    "dapi.js": "0.0.2"
   }
 }
