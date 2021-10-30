@@ -18,7 +18,4 @@
   ],
   "author": "alialkderani@gmail.com",
   "license": "MIT",
-  "dependencies": {
-    "dapi.js": "0.0.2"
-  }
 }
