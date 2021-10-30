@@ -1,6 +1,5 @@
 
-
-example:
+## Example usage:
 
 ```js
 const client = require('dapi.js');
@@ -15,5 +14,18 @@ client.createMessage({
         description: 'description for test',
         title: 'title'
     }
-}); // sne message: "something for test"
+}); // sending message "something for test"
 ```
+
+
+
+
+
+## Links
+
+
+[NPM](https://www.npmjs.com/package/discord.js)
+
+[Github](https://github.com/DeepPG/dapi.js)
+
+[Dapi.js help](https://discord.gg/bkYgQGC)
