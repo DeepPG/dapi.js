@@ -29,3 +29,9 @@ client.createMessage({
 [Github](https://github.com/DeepPG/dapi.js)
 
 [Dapi.js help](https://discord.gg/bkYgQGC)
+
+
+
+
+## Donation
+[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=K643AVX5KGL3W)
